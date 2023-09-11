@@ -1,0 +1,53 @@
+.carrusel {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.text-1 {
+    display: flex;
+    font-size: 12px;
+    justify-content: center;
+}
+
+
+.img-car-1, .img-car-2, .img-car-3, .img-car-4, .img-car-5, .img-car-6 {
+    height: 600px;
+    width: 430px;
+
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px rgb(11, 37, 69, .70);
+}
+
+
+
+
+
+
+/* html,body {
+    position: relative;
+    height: 100%;
+}
+
+body {
+    background: #eee;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #000;
+} */
+
+swiper-container {
+    width: 700px;
+    height: 700px;
+}
+
+swiper-slide {
+    overflow: hidden;
+}

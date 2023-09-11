@@ -1,0 +1,131 @@
+#formulario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 70%;
+}
+
+.titul-5 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.parr-5 {
+    padding: 10px 35px;
+}
+
+.form-cas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.col-1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    height: 100px;
+    width: 350px;
+
+}
+
+.in-text-n {
+    width: auto;
+    border-radius: 7px;
+    height: auto;
+    border-color: #0B2545;
+    border-width: 3px;
+    background-color: #D2E1F0;
+    border-style: solid;
+}
+
+.in-text-e {
+    width: auto;
+    border-radius: 7px;
+    height: auto;
+    border-color: #0B2545;
+    border-width: 3px;
+    background-color: #D2E1F0;
+    border-style: solid;
+}
+
+.col-2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    width: 350px;
+    height: 100px;
+
+}
+
+.btn-arch {
+    display: flex; 
+    justify-content: space-around;
+    align-items: center;
+    padding: 5px;
+    background-color: #D2E1F0;
+    border-color: #0B2545;
+    border-width: 3px;
+
+    border-style: solid;
+    border-radius: 7px;
+    position: relative;
+    width: 150px;
+    height: 20px;
+}
+
+.parr-inp {
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: #727A82;
+}
+
+.inp-img {
+    width: 22px;
+    height: 22px;
+}
+
+.up-arch {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+}
+
+.btn-env{
+    display: flex; 
+    justify-content: space-around;
+    align-items: center;
+    padding: 5px;
+    background-color: #738EA7;
+    border-color: #0B2545;
+    border-width: 3px;
+
+    border-style: solid;
+    border-radius: 7px;
+    position: relative;
+    width: 100px;
+    height: 36px;
+}
+
+.boton-en {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+}

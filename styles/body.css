@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Monda', sans-serif;
+}
+
+body {
+    background-image: url(/assets/svg/Background.svg);
+    background-size: cover;
+}
+
+::-webkit-scrollbar {
+    width: 0;
+    background-color: transparent;
+}

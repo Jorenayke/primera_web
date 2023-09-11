@@ -1,0 +1,14 @@
+.li-1-in:hover, .li-1-ser:hover, .li-1-sn:hover {
+    font-size: 16px;
+    transition: 0.1s ease-in;
+}
+
+.fb:hover, .ig:hover, .tw:hover, .lin:hover, .gh:hover, .rd:hover {
+    height: 43px;
+    width: 43px;
+
+    transition: 0.1s ease-in;
+    opacity: .75;
+    fill: #DDE8F3;
+}
+
